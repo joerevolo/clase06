@@ -1,0 +1,41 @@
+table{
+    width: 70%;
+    margin: auto;
+    background-color: darkcyan;
+    padding: 20px;
+
+}
+.banner{
+    text-align:center ; 
+    margin-top:10px ;
+}
+/*estilo para todos mis titulos */
+.titulo{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+    margin: 20px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none; /*elimina el subrayado */
+
+}
+a:hover{
+    color:rgb(84, 197, 103) ;
+}
+.tablita{
+    width: 70%;
+    background-color: burlywood;
+    margin: auto;
+    margin-top: 20px;
+    font-size: large;
+}
+h3{
+    text-align: center;
+    color: brown;
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
